@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henrie153
+- 👋 hi im @henrie153
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ICT
 - 💞️ I’m looking to collaborate on
