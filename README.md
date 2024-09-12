@@ -5,7 +5,7 @@
 - 📫 How to reach me ... no way
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I am very friendly
-- 😶‍🌫️ and I luv using emoji
+- 😶‍🌫️ and I luv using emojis
 -      
 <!---
 henrie153/henrie153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
